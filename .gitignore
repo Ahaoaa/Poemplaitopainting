@@ -1,0 +1,15 @@
+# 不上传打包文件
+*.apk
+*.zip
+
+# 不上传视频
+*.mp4
+
+# 不上传大 GIF
+*.gif
+
+# 临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
